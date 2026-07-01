@@ -1,1 +1,8 @@
-
+name: DMZPlaceholders
+version: 1.0.0
+main: me.daniramos.dmzplaceholders.DMZPlaceholders
+api-version: "1.21"
+author: DaniRamos
+depend:
+  - PlaceholderAPI
+description: PlaceholderAPI expansion for DragonMineZ.
